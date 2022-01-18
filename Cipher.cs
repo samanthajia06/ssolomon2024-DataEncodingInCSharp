@@ -35,7 +35,8 @@ public class Cipher
         {
             //TODO: The following copies the message character by character.
             //      Instead, you should to encrypt each character using the shift
-            newMessage += "C" + 5;
+            newMessage += (char)(c + this.shift);
+
         }
         return newMessage;
     }
