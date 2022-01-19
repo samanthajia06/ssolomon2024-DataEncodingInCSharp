@@ -75,7 +75,7 @@ different letters.
 
 What is the minimum number of bits to be able to represent the English alphabet?
 
-** ADD YOUR ANSWER HERE **
+6 bits
 
 ## Creating a Simple Encoding for Letters
 
